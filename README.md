@@ -12,3 +12,4 @@ Docker内でFlaskを実行するため、Dockerのインストールが必要で
 $ docker-compose up # docker起動
 $ docker-compose down # docker停止
 ```
+http://localhost:8000/　にアクセスしてください。
